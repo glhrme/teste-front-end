@@ -83,7 +83,7 @@ class Client{
         return true
          
     }
-}
+} 
 
 //Constantes
 const client = new Client()

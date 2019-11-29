@@ -2,7 +2,7 @@
 
 # Teste de Front-end Easynvest
 Este teste é apresentado aos candidatos as vagas de desenvolvimento Front-end para avaliar os quesitos técnicos.
- 
+
 ### O Desafio
 
 Seu objetivo é criar um simples app que deve conter duas páginas, uma que exibe um formulário com os campos abaixo, e outra que liste os dados cadastrados.
